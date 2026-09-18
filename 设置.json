@@ -1,3 +1,21 @@
 {
- "batch_value": 777
+ "batch_value": 900,
+ "shop_batch_value": 999,
+ "discount_all": 0.5,
+ "refresh_all": 1,
+ "close_on_save": false,
+ "auto_reload": true,
+ "chong_add_defaults": {
+  "power": 99999,
+  "agility": 999999,
+  "physicalpower": 99999,
+  "count": 20,
+  "foster_max": 99999,
+  "fill_skill": true,
+  "skill_value": 99999,
+  "fill_all_skill": false,
+  "fill_pref": true,
+  "pref_value": 99999
+ },
+ "kangfu_lv": 100
 }
