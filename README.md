@@ -56,7 +56,7 @@
 **问题报告**：通过 GitHub Issues 提交
 
 > **版权声明**：© 永久 杜玛 保留所有权利。
-> 本文档内容未经书面许可不得转载或用于商业用途。
+> 本文档内容随本仓库以 AGPL-3.0 发布，可自由转载与商用。
 > **注意**：我们不提供私人邮箱支持，所有技术支持都通过公开渠道进行，以便其他用户也能受益。
 
 **开发时间**：2026-09-18
@@ -1550,7 +1550,7 @@ A：能。所有纯函数都是模块级的，见第六篇案例七。
 
 **Q：能加新功能吗？**
 
-A：能。这是 MIT 协议。见第八篇。
+A：能。这是 AGPL-3.0 协议。见第八篇。
 
 **Q：怎么提交 bug？**
 
@@ -1579,7 +1579,7 @@ A：通过 GitHub Issues。
 - **作者**：杜玛
 - **版权**：© 永久 杜玛 保留所有权利
 - **许可证**：MIT（代码部分）
-- **文档**：未经书面许可不得转载或用于商业用途
+- **文档**：随本仓库以 AGPL-3.0 发布，可自由转载与商用
 
 ## 10.4 开源说明
 
@@ -1587,31 +1587,9 @@ A：通过 GitHub Issues。
 - **问题报告**：通过 GitHub Issues
 - **不支持私人邮箱**：所有技术支持走公开渠道，让其他用户也能受益
 
-## 10.5 MIT 许可证全文
+## 10.5 AGPL-3.0 许可证全文
 
-```
-MIT License
-
-Copyright (c) 永久 杜玛
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+完整许可证条文见仓库根目录 [LICENSE](LICENSE)（GNU AGPL-3.0）。
 
 ---
 
@@ -1760,7 +1738,7 @@ v2.17.0
 ---
 
 **© 永久 杜玛 保留所有权利**
-**本文档内容未经书面许可不得转载或用于商业用途**
+**本文档内容随本仓库以 AGPL-3.0 发布，可自由转载与商用**
 **GitHub：https://github.com/duma520**
 
 **开发时间：2026-09-18**
